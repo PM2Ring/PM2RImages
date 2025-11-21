@@ -1,0 +1,1 @@
+This is just a collection of images suitable to test image processing code. All images are either created by me, and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), or are in the public domain.
